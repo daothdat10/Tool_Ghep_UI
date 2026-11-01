@@ -1,0 +1,25 @@
+# Unity generated state
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# Local credentials and generated output
+.env
+.env.*
+!.env.example
+.data/
+LocalAIGateway/
+Assets/GeneratedUI/
+TestResults/
+*.log
